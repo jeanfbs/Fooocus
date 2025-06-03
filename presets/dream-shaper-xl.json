@@ -1,0 +1,65 @@
+{
+    "default_model": "dreamShaperXL.safetensors",
+    "default_refiner": "dreamShaperXL.safetensors",
+    "default_refiner_switch": 0.5,
+    "default_loras": [
+        [
+            true,
+            "assSizeSliderPony.safetensors",
+            2.0
+        ],
+        [
+            true,
+            "breastSizeSliderPony.safetensors",
+            2.0
+        ],
+        [
+            true,
+            "waistSliderXL.safetensors",
+            1.5
+        ],
+        [
+            true,
+            "tuningFaceDetailer.safetensors",
+            0.5
+        ],
+        [
+            true,
+            "None",
+            1.0
+        ]
+    ],
+    "default_cfg_scale": 4.0,
+    "default_sample_sharpness": 2.0,
+    "default_sampler": "dpmpp_2m_sde_gpu",
+    "default_scheduler": "karras",
+    "default_performance": "Speed",
+    "default_prompt": "(front view:1.6), body POV, SFW, Instagram_Influencer_78_By_Stable_Yogi, very detailed, realistic photograph, depth of field, volumetric lighting, dramatic lighting, deep shadows, ",
+    "default_prompt_negative": "ugly, CGI, EasyNegative, watermark, out of frame, ugly, worst quality, 3D, anime, cartoon, text, disfigured",
+    "default_styles": [
+        "Fooocus V2",
+        "Fooocus Enhance",
+        "Fooocus Sharp"
+    ],
+    "default_aspect_ratio": "1152*896",
+    "default_overwrite_step": -1,
+    "checkpoint_downloads": {
+        "dreamShaperXL.safetensors": "https://civitai.com/api/download/models/351306?type=Model&format=SafeTensor&size=full&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c"
+    },
+    "embeddings_downloads": {
+		"easyNegative.safetensors": "https://civitai.com/api/download/models/9208?type=Model&format=SafeTensor&size=full&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		"instagramInfluencer205StableYogi.safetensors":"https://civitai.com/api/download/models/716074?type=Model&format=PickleTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		"badHands.safetensors":"https://civitai.com/api/download/models/125849?type=Model&format=PickleTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c"
+		
+	},
+    "lora_downloads": {
+		"assImplant.safetensors": "https://civitai.com/api/download/models/733815?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		"waistSliderXL.safetensors":"https://civitai.com/api/download/models/140842?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		"tuningFaceDetailer.safetensors":"https://civitai.com/api/download/models/285546?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		"assSizeSliderPony.safetensors":"https://civitai.com/api/download/models/780965?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		"breastSizeSliderPony.safetensors":"https://civitai.com/api/download/models/534952?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		"allFoursSubmissionXL.safetensors": "https://civitai.com/api/download/models/632423?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c"
+	},
+    "previous_default_models": [
+    ]
+}
