@@ -46,7 +46,7 @@
     "checkpoint_downloads": {
         "dreamShaperXL.safetensors": "https://civitai.com/api/download/models/351306?type=Model&format=SafeTensor&size=full&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
 		"ultraRealisticByStableYogi.safetensors": "https://civitai.com/api/download/models/1792854?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"ultraRealisticByStableYogiPony.safetensors": "https://civitai.com/api/download/models/1699918?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		"ultraRealisticByStableYogiPony.safetensors": "https://civitai.com/api/download/models/1699918?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c"
 		
     },
     "embeddings_downloads": {
