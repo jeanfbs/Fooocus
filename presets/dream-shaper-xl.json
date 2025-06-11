@@ -10,13 +10,13 @@
         ],
 		[
             true,
-            "detailTweakerXL.safetensors",
+            "HandsXLSD1_5.safetensors",
             1.0
         ],
         [
             true,
             "waistSliderXL.safetensors",
-            1.0
+            0.75
         ],
         [
             true,
@@ -41,7 +41,7 @@
         "Fooocus Enhance",
 		"Fooocus Negative"
     ],
-    "default_aspect_ratio": "1152*896",
+    "default_aspect_ratio": "1080*1350",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "juggernautXL.safetensors": "https://civitai.com/api/download/models/1759168?type=Model&format=SafeTensor&size=full&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
