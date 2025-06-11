@@ -44,9 +44,10 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "dreamShaperXL.safetensors": "https://civitai.com/api/download/models/351306?type=Model&format=SafeTensor&size=full&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"ultraRealisticByStableYogi.safetensors": "https://civitai.com/api/download/models/1792854?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"ultraRealisticByStableYogiPony.safetensors": "https://civitai.com/api/download/models/1699918?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c"
+        "juggernautXL.safetensors": "https://civitai.com/api/download/models/1759168?type=Model&format=SafeTensor&size=full&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		"XL6HEPHAISTOS_SD1_0XL.safetensors": "https://civitai.com/api/download/models/159123?type=Model&format=SafeTensor&size=full&fp=bf16&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		"dreamShaperXL.safetensors": "https://civitai.com/api/download/models/351306?type=Model&format=SafeTensor&size=full&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		"ultraRealisticByStableYogi.safetensors": "https://civitai.com/api/download/models/1792854?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c"
 		
     },
     "embeddings_downloads": {
@@ -56,14 +57,21 @@
 		
 	},
     "lora_downloads": {
-		"NSFWMasterFlux.safetensors": "https://civitai.com/api/download/models/746602?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
 		"tuningFaceDetailer.safetensors":"https://civitai.com/api/download/models/285546?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"detailTweakerXL.safetensors":"https://civitai.com/api/download/models/135867?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		"HandsXLSD1_5.safetensors":"https://civitai.com/api/download/models/997426?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		
+		
+		
 		"assImplant.safetensors": "https://civitai.com/api/download/models/733815?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"waistSliderXL.safetensors":"https://civitai.com/api/download/models/140842?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		"bubbleButtBigAss.safetensors": "https://civitai.com/api/download/models/1462560?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
 		"assSizeSliderPony.safetensors":"https://civitai.com/api/download/models/780965?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"breastSizeSliderPony.safetensors":"https://civitai.com/api/download/models/534952?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"saggingBreastsXL.safetensors":"https://civitai.com/api/download/models/727555?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c"
+		
+		"waistSliderXL.safetensors":"https://civitai.com/api/download/models/140842?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		
+		
+		"roundFakeBreasts.safetensors": "https://civitai.com/api/download/models/734058?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		"HardNipples.safetensors": "https://civitai.com/api/download/models/298576?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		"breastSizeSliderPony.safetensors":"https://civitai.com/api/download/models/534952?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c"
 		
 	},
     "previous_default_models": [
