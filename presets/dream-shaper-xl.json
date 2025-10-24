@@ -45,7 +45,7 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "juggernautXL.safetensors": "https://civitai.com/api/download/models/1759168?type=Model&format=SafeTensor&size=full&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"realismByStableYogi(Pony)DMD2.safetensors": "https://civitai.com/api/download/models/2176192?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c"
+		"realismByStableYogi(Pony)DMD2.safetensors": "https://civitai.com/api/download/models/2176192?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
 		"ultraRealisticByStableYogi.safetensors": "https://civitai.com/api/download/models/1792854?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c"
     },
     "embeddings_downloads": {
