@@ -45,7 +45,9 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "juggernautXL.safetensors": "https://civitai.com/api/download/models/1759168?type=Model&format=SafeTensor&size=full&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"realismByStableYogi(Pony)DMD2.safetensors": "https://civitai.com/api/download/models/2176192?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c"
+		"realismByStableYogi(Pony)DMD2.safetensors": "https://civitai.com/api/download/models/2176192?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		"realism SDXL By Stable Yogi.safetensors": "https://civitai.com/api/download/models/2337806?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		"sDXLVaeRefiner.safetensors": "https://civitai.com/api/download/models/128078?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c"
     },
     "embeddings_downloads": {
 		"stable_Yogis_PDXL_Negatives.safetensors":"https://civitai.com/api/download/models/1503612?type=Negative&format=Other&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
