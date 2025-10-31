@@ -1,7 +1,7 @@
 {
-    "default_model": "juggernautXL.safetensors",
-    "default_refiner": "juggernautXL.safetensors",
-    "default_refiner_switch": 0.5,
+    "default_model": "CyberRealisticPony.safetensors",
+    "default_refiner": "RealismByStableYogi(Pony)DMD2.safetensors",
+    "default_refiner_switch": 0.8,
     "default_loras": [
         [
             true,
@@ -10,8 +10,8 @@
         ],
 		[
             true,
-            "HandsXLSD1_5.safetensors",
-            1.0
+            "PerfectAss.safetensors",
+            0.7
         ],
         [
             true,
@@ -20,8 +20,8 @@
         ],
         [
             true,
-            "None",
-            1.0
+            "bubbleButtV3.safetensors",
+            0.5
         ],
 		[
             true,
@@ -34,20 +34,14 @@
     "default_sampler": "dpmpp_2m_sde_gpu",
     "default_scheduler": "karras",
     "default_performance": "Speed",
-    "default_prompt": "",
-    "default_prompt_negative": "ugly, CGI, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, extra limbs, disfigured, deformed, bad anatomy, blurry, watermark, signature, cropped, low contrast, underexposed, overexposed, distorted face, extra fingers, fused fingers, missing fingers, long neck, malformed limbs, mutated hands, mutation, text, logo, low quality, low resolution, anime, 3D rendering, sketch, childish, oversaturated, missing arms, missing legs, extra arms, extra legs, cloned face, too many fingers, embedding:stable_Yogis_PDXL_Negatives, Stable_Yogis_PDXL_Negatives2",
-    "default_styles": [
-        "Fooocus V2",
-        "Fooocus Enhance",
-		"Fooocus Negative"
-    ],
+    "default_prompt": "score_9, score_8_up, score_7_up, HD, realistic, 4k resolution, __detail*3__, 1 girl, 25 years, Caucasian, German, white skin, blonde, long hair, __hair-accessory__, level 2 wavy hair, thin lips, blue eyes, (thin waist:1.1), slim, __camera2__, __nsfw-expression__, back view, __sexy__, __color__ tight jeans, (detailed butt line:1.4), 8u88l3, (butt lines:1.3), (round butt:1.3), (bubble butt:1.3), __places__",
+    "default_prompt_negative": "score_6, score_5, score_4, (worst quality:1.2), (low quality:1.2), (normal quality:1.2), bad anatomy, bad hands, signature, watermarks, ugly, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, extra limb, missing limbs, CGI, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, disfigured, deformed, blurry, watermark, cropped, low contrast, underexposed, overexposed, distorted face, extra fingers, fused fingers, missing fingers, long neck, malformed limbs, mutated hands, mutation, text, logo, low quality, low resolution, anime, 3D rendering, sketch, childish, oversaturated, missing arms, missing legs, extra arms, extra legs, cloned face, too many fingers, embedding:stable_Yogis_PDXL_Negatives, Stable_Yogis_PDXL_Negatives2, (thick thighs:1.2)",
+    "default_styles": ["Fooocus Negative"],
     "default_aspect_ratio": "1080*1350",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        "juggernautXL.safetensors": "https://civitai.com/api/download/models/1759168?type=Model&format=SafeTensor&size=full&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"realismByStableYogi(Pony)DMD2.safetensors": "https://civitai.com/api/download/models/2176192?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"realism SDXL By Stable Yogi.safetensors": "https://civitai.com/api/download/models/2337806?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"sDXLVaeRefiner.safetensors": "https://civitai.com/api/download/models/128078?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c"
+		"RealismByStableYogi(Pony)DMD2.safetensors": "https://civitai.com/api/download/models/2176192?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		"CyberRealisticPony.safetensors": "https://civitai.com/api/download/models/2255476?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c"
     },
     "embeddings_downloads": {
 		"stable_Yogis_PDXL_Negatives.safetensors":"https://civitai.com/api/download/models/1503612?type=Negative&format=Other&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
@@ -55,22 +49,16 @@
 	},
     "lora_downloads": {
 		"tuningFaceDetailer.safetensors":"https://civitai.com/api/download/models/285546?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"thighSlider.safetensors":"https://civitai.com/api/download/models/625365?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-	
-		"waistSliderXL.safetensors":"https://civitai.com/api/download/models/140842?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-
 		"PerfectAss.safetensors": "https://civitai.com/api/download/models/2274731?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		"bubbleButtV3.safetensors": "https://civitai.com/api/download/models/423529?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		"waistSliderXL.safetensors":"https://civitai.com/api/download/models/140842?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		
+
 		"BreastSizeSlider-SDXL.safetensors": "https://civitai.com/api/download/models/535064?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
 		"breastSizeSliderPony.safetensors":"https://civitai.com/api/download/models/534952?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
 		"LegLengthSlider-SDXL.safetensors": "https://civitai.com/api/download/models/599796?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
 		"FitBelly.safetensors": "https://civitai.com/api/download/models/1245858?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"AdorableTightDress.safetensors": "https://civitai.com/api/download/models/2003436?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"BubbleButtSliderSDXL.safetensors": "https://civitai.com/api/download/models/533085?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-
-
-
-
-		"BubbleButtSliderSDXL.safetensors": "https://civitai.com/api/download/models/533085?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c"
+		"AdorableTightDress.safetensors": "https://civitai.com/api/download/models/2003436?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c"
 	},
     "previous_default_models": [
     ]
