@@ -40,25 +40,25 @@
     "default_aspect_ratio": "1080*1350",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-		"RealismByStableYogi(Pony)DMD2.safetensors": "https://civitai.com/api/download/models/2176192?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"CyberRealisticPony.safetensors": "https://civitai.com/api/download/models/2255476?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=6b1a47a71b5dbe62826db2f7bfff1f2c"
+		"RealismByStableYogi(Pony)DMD2.safetensors": "https://civitai.com/api/download/models/2176192?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=c63f2138f0ab88c8cc43ca896725aebf",
+		"CyberRealisticPony.safetensors": "https://civitai.com/api/download/models/2255476?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=c63f2138f0ab88c8cc43ca896725aebf"
     },
     "embeddings_downloads": {
-		"stable_Yogis_PDXL_Negatives.safetensors":"https://civitai.com/api/download/models/1503612?type=Negative&format=Other&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"stable_Yogis_PDXL_Positives.safetensors":"https://civitai.com/api/download/models/1503873?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c"
+		"stable_Yogis_PDXL_Negatives.safetensors":"https://civitai.com/api/download/models/1503612?type=Negative&format=Other&token=c63f2138f0ab88c8cc43ca896725aebf",
+		"stable_Yogis_PDXL_Positives.safetensors":"https://civitai.com/api/download/models/1503873?type=Model&format=SafeTensor&token=c63f2138f0ab88c8cc43ca896725aebf"
 	},
     "lora_downloads": {
-		"tuningFaceDetailer.safetensors":"https://civitai.com/api/download/models/285546?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"PerfectAss.safetensors": "https://civitai.com/api/download/models/2274731?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"bubbleButtV3.safetensors": "https://civitai.com/api/download/models/423529?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"waistSliderXL.safetensors":"https://civitai.com/api/download/models/140842?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
+		"tuningFaceDetailer.safetensors":"https://civitai.com/api/download/models/285546?type=Model&format=SafeTensor&token=c63f2138f0ab88c8cc43ca896725aebf",
+		"PerfectAss.safetensors": "https://civitai.com/api/download/models/2274731?type=Model&format=SafeTensor&token=c63f2138f0ab88c8cc43ca896725aebf",
+		"bubbleButtV3.safetensors": "https://civitai.com/api/download/models/423529?type=Model&format=SafeTensor&token=c63f2138f0ab88c8cc43ca896725aebf",
+		"waistSliderXL.safetensors":"https://civitai.com/api/download/models/140842?type=Model&format=SafeTensor&token=c63f2138f0ab88c8cc43ca896725aebf",
 		
 
-		"BreastSizeSlider-SDXL.safetensors": "https://civitai.com/api/download/models/535064?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"breastSizeSliderPony.safetensors":"https://civitai.com/api/download/models/534952?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"LegLengthSlider-SDXL.safetensors": "https://civitai.com/api/download/models/599796?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"FitBelly.safetensors": "https://civitai.com/api/download/models/1245858?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c",
-		"AdorableTightDress.safetensors": "https://civitai.com/api/download/models/2003436?type=Model&format=SafeTensor&token=6b1a47a71b5dbe62826db2f7bfff1f2c"
+		"BreastSizeSlider-SDXL.safetensors": "https://civitai.com/api/download/models/535064?type=Model&format=SafeTensor&token=c63f2138f0ab88c8cc43ca896725aebf",
+		"breastSizeSliderPony.safetensors":"https://civitai.com/api/download/models/534952?type=Model&format=SafeTensor&token=c63f2138f0ab88c8cc43ca896725aebf",
+		"LegLengthSlider-SDXL.safetensors": "https://civitai.com/api/download/models/599796?type=Model&format=SafeTensor&token=c63f2138f0ab88c8cc43ca896725aebf",
+		"FitBelly.safetensors": "https://civitai.com/api/download/models/1245858?type=Model&format=SafeTensor&token=c63f2138f0ab88c8cc43ca896725aebf",
+		"AdorableTightDress.safetensors": "https://civitai.com/api/download/models/2003436?type=Model&format=SafeTensor&token=c63f2138f0ab88c8cc43ca896725aebf"
 	},
     "previous_default_models": [
     ]
